@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kafkaproductor/Kafkaproductor.iml" filepath="$PROJECT_DIR$/Kafkaproductor/Kafkaproductor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Weibo/WeiBo.iml" filepath="$PROJECT_DIR$/Weibo/WeiBo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/project.iml" filepath="$PROJECT_DIR$/.idea/modules/project.iml" />
+    </modules>
+  </component>
+</project>

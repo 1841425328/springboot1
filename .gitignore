@@ -1,0 +1,5 @@
+# Project exclude paths
+/Kafkaproductor/target/
+/project/target/
+/target/
+/Weibo/target/
